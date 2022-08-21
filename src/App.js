@@ -28,7 +28,6 @@ class App extends Component {
   //   let myBalanceEther = await web3.eth.getBalance(accounts[0]);
   //   myBalanceEther = web3.utils.fromWei(myBalanceEther, 'ether')
   // }
-
   render() {
     return (
       <div>
